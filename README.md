@@ -65,6 +65,7 @@ Instructions on how to run the project.
 ## Screenshot
 
 ![Screenshot](path/to/your/screenshot.png)
+![Screenshot](src/asset/image.png)
 
 ## Contributing
 
